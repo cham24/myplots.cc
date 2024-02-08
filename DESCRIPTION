@@ -2,10 +2,10 @@ Package: myplots.cc
 Title: Useful Plotting Functions
 Version: 0.0.0.9000
 Authors@R: 
-    person("Cameron", "Chambers", , "cameronchambers1215@gmail.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+    person("Cameron", "Chambers", , "cameronchambers1215@gmail.com", role = c("aut", "cre"))
 Description: This package contains useful plotting functions and information for any plotting needs.
-License: GPL (>= 3)
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
